@@ -1,6 +1,6 @@
 # Table of contents
 
-## Group 1
+## Java
 
 * [Page 3](README.md)
 
