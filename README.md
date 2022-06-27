@@ -1,2 +1,6 @@
-# Page 3
+---
+layout: editorial
+---
+
+# Page 2
 
