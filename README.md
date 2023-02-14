@@ -1,1 +1,6 @@
-# note
+---
+layout: editorial
+---
+
+# Page 2
+
